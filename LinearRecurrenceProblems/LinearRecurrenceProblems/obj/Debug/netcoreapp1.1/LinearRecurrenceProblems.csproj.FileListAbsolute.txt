@@ -1,0 +1,10 @@
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\bin\Debug\netcoreapp1.1\LinearRecurrenceProblems.deps.json
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\bin\Debug\netcoreapp1.1\LinearRecurrenceProblems.runtimeconfig.json
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\bin\Debug\netcoreapp1.1\LinearRecurrenceProblems.runtimeconfig.dev.json
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\bin\Debug\netcoreapp1.1\LinearRecurrenceProblems.dll
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\bin\Debug\netcoreapp1.1\LinearRecurrenceProblems.pdb
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\obj\Debug\netcoreapp1.1\LinearRecurrenceProblems.csprojResolveAssemblyReference.cache
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\obj\Debug\netcoreapp1.1\LinearRecurrenceProblems.csproj.CoreCompileInputs.cache
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\obj\Debug\netcoreapp1.1\LinearRecurrenceProblems.AssemblyInfo.cs
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\obj\Debug\netcoreapp1.1\LinearRecurrenceProblems.dll
+C:\Users\luke\Documents\projects\linear-recurrence-matrices\LinearRecurrenceProblems\LinearRecurrenceProblems\obj\Debug\netcoreapp1.1\LinearRecurrenceProblems.pdb
